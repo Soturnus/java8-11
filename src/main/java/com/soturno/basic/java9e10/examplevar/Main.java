@@ -32,8 +32,8 @@ public class Main {
 //            System.out.println(parametro);
 //        }
 
-        var nome; // ERRO: O tipo não pode ser inferido sem inicialização
-        nome = "Teste";
+//        var nome; // ERRO: O tipo não pode ser inferido sem inicialização
+//        nome = "Teste";
 
         /*******************/
 
